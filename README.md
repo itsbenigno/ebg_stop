@@ -6,7 +6,7 @@ Mnih, Volodymyr & Szepesvári, Csaba & Audibert, Jean-Yves. (2008). [Empirical B
 ## Prerequisites
 Make sure that your C++ compiler supports OpenMP
 
-##Run 
+## Run 
 N_THREADS defines how many parallel simulation of your random variable to run.
 Modify the simulate_model() function with the random variable you want to estimate, then open a terminal inside the project directory and write 
 ```
