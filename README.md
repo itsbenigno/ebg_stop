@@ -1,5 +1,5 @@
 # Empirical Bernstein stopping
-This is a C++ implementation of the Empirical Bernstein stopping algorithm (in particular EBGstop, the fast version of it).
+This is a C++ implementation of the Empirical Bernstein stopping algorithm (in particular EBGstop, a faster version of it).
 
 Mnih, Volodymyr & Szepesvári, Csaba & Audibert, Jean-Yves. (2008). [Empirical Bernstein stopping](https://dl.acm.org/doi/10.1145/1390156.1390241)
 
